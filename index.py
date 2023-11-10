@@ -1,4 +1,3 @@
-pip install openai==0.28
 import openai
 
 # Set your OpenAI API key
