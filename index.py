@@ -1,4 +1,4 @@
-import openai
+#import openai
 
 # Set your OpenAI API key
 openai.api_key = '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'
